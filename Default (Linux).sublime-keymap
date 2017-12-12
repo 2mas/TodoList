@@ -5,6 +5,6 @@
     },
     {
         "keys": ["ctrl+t", "ctrl+l"],
-        "command": "todo_list_show",
+        "command": "todo_list_list_all",
     },
 ]
