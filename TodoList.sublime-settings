@@ -1,0 +1,5 @@
+{
+    // Use a custom file path for the json-file used to store lists
+    // Default will be a todo.json in your User-folder
+    "file_path": ""
+}

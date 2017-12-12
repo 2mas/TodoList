@@ -1,0 +1,10 @@
+[
+    {
+        "keys": ["ctrl+t", "ctrl+m"],
+        "command": "todo_list_menu",
+    },
+    {
+        "keys": ["ctrl+t", "ctrl+l"],
+        "command": "todo_list_show",
+    },
+]

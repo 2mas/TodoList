@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "TodoList: Menu",
+        "command": "todo_list_menu"
+    },
+    {
+        "caption": "TodoList: List all",
+        "command": "todo_list_list_all"
+    },
+]
